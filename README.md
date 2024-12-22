@@ -13,7 +13,7 @@ This repository provides the necessary drawings, code, and instructions to repli
 | Micro-USB Power Cable       | [MYFON](https://www.amazon.com/Charging-Transfer-Android-Trustable-MYFON/dp/B098DW7485)             | $6    |
 | Jumper Wires                | [Elegoo](https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78)     | $7    |
 | Electrical Tape             | [Scotch](https://www.amazon.com/Scotch-Electrical-Tape-4-Inch-66-Foot/dp/B001ULCB1O)                | $4    |
-|                             |                                                                                 **Total:** | **$172**       |
+|                             |                                                                                       **Total:** | **$126** |
 
 
 
