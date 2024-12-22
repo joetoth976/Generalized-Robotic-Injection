@@ -15,10 +15,14 @@ This repository provides the necessary drawings, code, and instructions to repli
 | Electrical Tape             | [Scotch](https://www.amazon.com/Scotch-Electrical-Tape-4-Inch-66-Foot/dp/B001ULCB1O)                | $4    |
 |                             |                                                                                       **Total:** | **$126** |
 
-
-
 ## MATLAB
+[Download & Install MATLAB](https://www.mathworks.com/help/install/ug/install-products-with-internet-connection.html)
 
+Include the following toolboxes:
+[Computer Vision Toolbox](https://www.mathworks.com/products/computer-vision.html)
+[MATLAB Support Package for IP Cameras](https://www.mathworks.com/matlabcentral/fileexchange/49824-matlab-support-package-for-ip-cameras)
+
+Download the entire MATLAB folder from this repository. Set the current file in MATLAB as the downloaded folder. Reconfigure the MATLAB control applet's code to suit your project's needs and repackage it as an app as needed. 
 
 ## Arduino
 [Arduino IDE](https://www.arduino.cc/en/software)
