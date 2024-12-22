@@ -19,8 +19,7 @@ This repository provides the necessary drawings, code, and instructions to repli
 [Download & Install MATLAB](https://www.mathworks.com/help/install/ug/install-products-with-internet-connection.html)
 
 Include the following toolboxes:
-[Computer Vision Toolbox](https://www.mathworks.com/products/computer-vision.html)
-[MATLAB Support Package for IP Cameras](https://www.mathworks.com/matlabcentral/fileexchange/49824-matlab-support-package-for-ip-cameras)
+[Computer Vision Toolbox](https://www.mathworks.com/products/computer-vision.html), [MATLAB Support Package for IP Cameras](https://www.mathworks.com/matlabcentral/fileexchange/49824-matlab-support-package-for-ip-cameras)
 
 Download the entire MATLAB folder from this repository. Set the current file in MATLAB as the downloaded folder. Reconfigure the MATLAB control applet's code to suit your project's needs and repackage it as an app as needed. 
 
