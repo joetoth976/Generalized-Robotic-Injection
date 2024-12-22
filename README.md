@@ -24,7 +24,9 @@ Include the following toolboxes:
 Download the entire MATLAB folder from this repository. Set the current file in MATLAB as the downloaded folder. Reconfigure the MATLAB control applet's code to suit your project's needs and repackage it as an app as needed. 
 
 ## Arduino
-[Arduino IDE](https://www.arduino.cc/en/software)
+[Download & Install Arduino IDE](https://www.arduino.cc/en/software)
+
+Download the arm_command.ino file and upload it to the Arduino MEGA 2560 via Arduino IDE. 
 
 ## Integration
 
