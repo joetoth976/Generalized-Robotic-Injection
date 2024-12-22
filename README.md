@@ -29,6 +29,9 @@ Download the entire MATLAB folder from this repository. Set the current file in 
 Download the arm_command.ino file and upload it to the Arduino MEGA 2560 via Arduino IDE. 
 
 ## Integration
-
+Follow the directions, schematics, and software descriptions laid out in the Project Overview document. %%
 
 ## Acknowlegements
+This project utlized the robotic kit and [control software](https://github.com/smrLab/Robotic-Arm-Kit) from the [Smart Materials and Robotics Laboratory](https://smr.unl.edu/) at the [University of Nebraska-Lincoln Department of Mechanical and Materials Engineering](https://engineering.unl.edu/mme/). 
+
+The following Arduino Libraries were used: [Adafruit PWM Servo Driver Library](https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library), [HC-SR04 Library](https://github.com/Martinsos/arduino-lib-hc-sr04)
