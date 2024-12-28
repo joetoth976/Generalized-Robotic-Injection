@@ -2,14 +2,7 @@
 This repository provides the necessary drawings, code, and instructions to replicate a 3DOF robotic arm capable of simulated automatic injection. The robot utilizes an IP-Camera and ultrasonic sensor to detect injection sites through the MATLAB Computer Vision Toolbox and a control applet. 
 
 ## Video Demonstration
-
-
-
-
-
-
-
-
+https://github.com/user-attachments/assets/0d78d7d8-fddb-49b4-9731-366ae6d337d1
 
 ## Components
 | Item                        | Manufacturer/Link                                                                                   | Price |
@@ -39,7 +32,7 @@ Download the entire MATLAB folder from this repository. Set the current file in 
 Download the arm_command.ino file and upload it to the Arduino MEGA 2560 via Arduino IDE. 
 
 ## Integration
-Follow the directions, schematics, and software descriptions laid out in the Project Overview document. %%
+Follow the directions, schematics, and software descriptions laid out in the Project Overview document. 
 
 ## Acknowlegements
 This project utlized the robotic kit and [control software](https://github.com/smrLab/Robotic-Arm-Kit) from the [Smart Materials and Robotics Laboratory](https://smr.unl.edu/) at the [University of Nebraska-Lincoln Department of Mechanical and Materials Engineering](https://engineering.unl.edu/mme/). 
