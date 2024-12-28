@@ -2,7 +2,7 @@
 This repository provides the necessary drawings, code, and instructions to replicate a 3DOF robotic arm capable of simulated automatic injection. The robot utilizes an IP-Camera and ultrasonic sensor to detect injection sites through the MATLAB Computer Vision Toolbox and a control applet. 
 
 ## Video Demonstration
-https://github.com/user-attachments/assets/dddb3097-da9f-4d83-8d5d-02d36bc8b0f1
+https://github.com/user-attachments/assets/c4ef7c3b-5e16-4c82-9615-c5fa265d2843
 
 ## Components
 | Item                        | Manufacturer/Link                                                                                   | Price |
