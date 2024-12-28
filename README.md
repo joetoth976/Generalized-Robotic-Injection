@@ -1,8 +1,10 @@
 # Generalized-Robotic-Injection
+https://github.com/user-attachments/assets/c4ef7c3b-5e16-4c82-9615-c5fa265d2843
+
 This repository provides the necessary drawings, code, and instructions to replicate a 3DOF robotic arm capable of simulated automatic injection. The robot utilizes an IP-Camera and ultrasonic sensor to detect injection sites through the MATLAB Computer Vision Toolbox and a control applet. 
 
 ## Video Demonstration
-https://github.com/user-attachments/assets/c4ef7c3b-5e16-4c82-9615-c5fa265d2843
+[Link to Full Demo](https://uofnelincoln-my.sharepoint.com/:v:/g/personal/jtoth3_unl_edu/ESOxoaJ-kIhIvgtayEl0OS0BzzwsHD2kksnlrYsa-0oggw?e=ItIdS7)
 
 ## Components
 | Item                        | Manufacturer/Link                                                                                   | Price |
