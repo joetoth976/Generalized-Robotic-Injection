@@ -3,7 +3,6 @@ This repository provides the necessary drawings, code, and instructions to repli
 
 ## Video Demonstration
 https://github.com/user-attachments/assets/c4ef7c3b-5e16-4c82-9615-c5fa265d2843
-[Full Demo](https://uofnelincoln-my.sharepoint.com/:v:/g/personal/jtoth3_unl_edu/ESOxoaJ-kIhIvgtayEl0OS0BzzwsHD2kksnlrYsa-0oggw?e=oodpNk)
 
 ## Components
 | Item                        | Manufacturer/Link                                                                                   | Price |
